@@ -1,8 +1,8 @@
 ```java I'm tab B
-console.log('Code Tab B');
+wChartSeriesListDTO.getChartProperties().setMaxTargetField("maxTargetField");
 spline("LS");
 ```
 
 ```
-java wChartSeriesListDTO.getChartProperties().setMaxTargetField("maxTargetField");
+java 
 ```
