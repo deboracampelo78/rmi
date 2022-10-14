@@ -1,14 +1,4 @@
-```javascript I'm A tab
-console.log('Code Tab A');
-```
-```javascript I'm tab B
-console.log('Code Tab B');
-```
+maxTargetField (String) - ex. wChartSeriesListDTO.getChartProperties().setMaxTargetField("maxTargetField")
 
-
-
-
-```java I'm tab B
-console.log('Code Tab B');
-spline("LS");
+```java wChartSeriesListDTO.getChartProperties().setMaxTargetField("maxTargetField");
 ```
