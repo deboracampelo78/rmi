@@ -343,10 +343,11 @@ export default class TotalPatientsWC extends PFCSChartBase {
 }
 ```
 
-### setYAxisMaxValue - (This method is currently unused)
+### <s>setYAxisMaxValue</s>
 ----
 #### :page_with_curl: Description
-Set a maximum value to the y axis in a chart<br>
+(This method is currently unused)<br>
+You can use this method - [setRangeAxes](#setRangeAxes)<br>
 
 #### :bookmark_tabs: Parameters
 **yAxisMaxValue:** _(number)_ maximum to the y axis to be used in the chart <br>
