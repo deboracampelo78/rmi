@@ -196,9 +196,9 @@ export default class StackedBarChartTest extends WChart {
 - [showDonutCenterText](#showDonutCenterText)
 - [hideDonutCenterText](#hideDonutCenterText)
 - [renderChart](#renderChart)
-- [setYAxisMaxValue](#setYAxisMaxValue)
+- [<s>setYAxisMaxValue</s>](#setYAxisMaxValue)
 - [getYAxisMaxValue](#getYAxisMaxValue)
-- [setYAxisMinValue](#setYAxisMinValue)
+- [<s>setYAxisMinValue</s>](#setYAxisMinValue)
 - [getYAxisMinValue](#getYAxisMinValue)
 - [activate](#activate)
 - [addSerie](#addserie)
@@ -389,10 +389,11 @@ export default class MyChart extends WChart  {
 }
 ```
 
-### setYAxisMinValue - (This method is currently unused)
+### <s>setYAxisMinValue</s>
 ----
 #### :page_with_curl: Description
-Set a minimum value to the y axis in a chart<br>
+(This method is currently unused)<br>
+You can use this method - [setRangeAxes](#setRangeAxes)<br>
 
 #### :bookmark_tabs: Parameters
 **yAxisMaxValue:** _(number)_ minimum to the y axis to be used in the chart <br>
