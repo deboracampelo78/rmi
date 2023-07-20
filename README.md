@@ -349,7 +349,7 @@ export default class TotalPatientsWC extends PFCSChartBase {
 (This method is currently unused)<br>
 You can use this method - [setRangeAxes](#setRangeAxes)<br>
 
-#### :bookmark_tabs: Parameters
+#### :bookmark_tabs: Parameter
 **yAxisMaxValue:** _(number)_ maximum to the y axis to be used in the chart <br>
 
 #### :leftwards_arrow_with_hook: Return
