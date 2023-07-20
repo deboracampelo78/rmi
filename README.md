@@ -389,12 +389,6 @@ export default class MyChart extends WChart  {
 (This method is currently unused)<br>
 You can use this method - [setRangeAxes](#setRangeAxes)<br>
 
-#### :bookmark_tabs: Parameters
-**yAxisMaxValue:** _(number)_ minimum to the y axis to be used in the chart <br>
-
-#### :leftwards_arrow_with_hook: Return
-Not available. <br>
-
 #### :pencil2: Example
 ```javascript
 @Controller({ domain: 'atepac/AtePacAA', code: 123456 })
