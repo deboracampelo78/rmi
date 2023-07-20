@@ -349,17 +349,7 @@ export default class TotalPatientsWC extends PFCSChartBase {
 (This method is currently unused)<br>
 You can use this method - [setRangeAxes](#setRangeAxes)<br>
 
-#### :pencil2: Example
 ```javascript
-import { Controller } from '@philips/odin-ext';
-import WChart  from '../../../commons/controllersBase/PFCSChartBase';
-
-@Controller({ domain: 'atepac/AtePacAA', code: 123456 })
-export default class MyChart extends WChart  {
-  onLoad() {
-    this.handler.setYAxisMaxValue(100);
-  }
-}
 ```
 
 ### getYAxisMaxValue
@@ -389,14 +379,7 @@ export default class MyChart extends WChart  {
 (This method is currently unused)<br>
 You can use this method - [setRangeAxes](#setRangeAxes)<br>
 
-#### :pencil2: Example
 ```javascript
-@Controller({ domain: 'atepac/AtePacAA', code: 123456 })
-export default class MyChart extends WChart  {
-  onLoad() {
-    this.handler.setYAxisMinValue(0);
-  }
-}
 ```
 
 ### getYAxisMinValue
