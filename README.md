@@ -349,12 +349,6 @@ export default class TotalPatientsWC extends PFCSChartBase {
 (This method is currently unused)<br>
 You can use this method - [setRangeAxes](#setRangeAxes)<br>
 
-#### :bookmark_tabs: Parameter
-**yAxisMaxValue:** _(number)_ maximum to the y axis to be used in the chart <br>
-
-#### :leftwards_arrow_with_hook: Return
-Not available. <br>
-
 #### :pencil2: Example
 ```javascript
 import { Controller } from '@philips/odin-ext';
